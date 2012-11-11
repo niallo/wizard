@@ -7,7 +7,7 @@
   "version": "0.0.1",
   "main": "./lib/wizard",
   "dependencies": {
-    "prompt": "git://github.com/niallo/prompt",
+    "prompt": "git://github.com/niallo/prompt"
   },
   "devDependencies": {},
   "optionalDependencies": {},
